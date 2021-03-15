@@ -4,12 +4,14 @@
 
 > **說明**: 在完成第 1 堂雲端服務課程後，將您了解的知識與主觀想法來描述雲端運算與其產業的趨勢發展。內容不少於 250 字，並上傳 GitHub 然後將GitHub 鏈接貼在表單上傳作業。  
 **截止日期**: 3/22  
-**心得**:
+**心得**:  
+
 
 ## 作業二: Build a Website using Amazon EC2 with LAMP
 
 > **說明**: 在完成第 2 堂雲端服務課程後，藉由 Linux 2 虛擬機完成安裝 LAMP 解決方案包，並成功啟動網頁伺服器與資料庫伺服器的功能。  
 **別忘了過程中說明與解釋您的操作步驟。**  
+[**雲端運算服務、金融科技 20210315 簡報**](https://drive.google.com/file/d/1ysolgVFlpZTMhIPXL7sbdnSzjG5XUicN/view)  
 **截止日期**: 3/29
 
 ## 作業三: Build a Website using Amazon S3(Versioning) and AWS Amplify
