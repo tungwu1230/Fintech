@@ -13,15 +13,17 @@
 | --- | --- | --- |
 | 04/05 | [HW2](https://youtu.be/H0C-zJOY5sk) | 在完成第 2 堂雲端服務課程後，藉由 Linux 2 虛擬機完成安裝 LAMP 解決方案包，並成功啟動網頁伺服器與資料庫伺服器的功能。 |
 
-助教簡報: [AWS LAMP](https://drive.google.com/file/d/1ysolgVFlpZTMhIPXL7sbdnSzjG5XUicN/view)
+助教簡報: [AWS LAMP](https://drive.google.com/file/d/1ysolgVFlpZTMhIPXL7sbdnSzjG5XUicN/view)  
+課程錄影: [第四週課堂錄影 3/15](https://drive.google.com/drive/folders/1MaqK-3HvPeBFK-5OjdqAGHtW04jdkZnB)
 
 ## 作業三: Build a Website using Amazon S3(Versioning) and AWS Amplify
 
 | 截止日期 | 已完成 | 說明 |
 | --- | --- | --- |
-| 04/12 |  | 在完成第 3 堂雲端服務課程後，運用 S3 與Amplify 服務進行網頁部署，過程中演示版本控制功能。 |
+| 04/05 |  | 在完成第 3 堂雲端服務課程後，運用 S3 與Amplify 服務進行網頁部署，過程中演示版本控制功能。 |
 
- 助教簡報: [AWS IAM & S3](https://drive.google.com/file/d/1zTAF-32yebhsIAqjfyM30cjMKl9lvbf-/view) 
+ 助教簡報: [AWS IAM & S3](https://drive.google.com/file/d/1zTAF-32yebhsIAqjfyM30cjMKl9lvbf-/view)  
+ 課程錄影: [第五週課堂錄影 3/22](https://drive.google.com/drive/folders/1piSFgvRxU3414lnz42Fdb2LaKsxnUQQd)
 
 ## 作業四: Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda
 
@@ -44,7 +46,14 @@
 內容來源: [moodle簡報](https://drive.google.com/file/d/1RCUnZUk5qfb_ukjVjv5ievIR-3ZHs6Do/view)
 
 ---
-## 期末專題  
+## 期末專題-國泰人壽題目二  
+主題: 人臉分析之核保應用  
+題目訴求: 投保因子分析(人臉核保、身體健康、財務健康、道德風險、法令規範)、痛點分析(準備大量資料)、了解完整業務流程、影像處理基礎、經驗交流優化、模型建議  
+實作方向: 特徵分類、影像辨識、機器學習、模型回歸、保險業務流程優化  
+介紹影片: [https://reurl.cc/8y0Eag](https://reurl.cc/8y0Eag)  
+
+[2021產學合作題目介紹](https://docs.google.com/presentation/d/e/2PACX-1vTgVktGm1OwqWspx_PkFQlhR6oqPFXTV5oj0JYOdR-guBzKBEbyXLfKKXRenI2HkhT4iHwYGStgoAIA/pub?start=false&loop=false&delayms=3000&slide=id.gc356cb2501_0_242)
+
 ### 三次正式進度追蹤提醒15%  
 1. 04/19 (檢討指標: 與業師及跨校同學建立好聯繫模式、並至少討論過三次以上，提出討論的溝通內容及專案管理狀態)
 2. 05/10 (檢視指標：建立好基本分工流程，並提出最小可行性方案規劃)  
