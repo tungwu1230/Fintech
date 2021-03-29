@@ -1,7 +1,7 @@
 # 需放入user data的部分
 ---
 
-#!/bin/bash
+#!/bin/bash  
 sudo yum update -y  
 sudo amazon-linux-extras install -y lamp-mariadb10.2-php7.2 php7.2  
 cat /etc/system-release  
