@@ -20,7 +20,7 @@
 
 | 截止日期 | 已完成 | 說明 |
 | --- | --- | --- |
-| 04/05 |  | 在完成第 3 堂雲端服務課程後，運用 S3 與Amplify 服務進行網頁部署，過程中演示版本控制功能。 |
+| 04/12 | [HW3](https://youtu.be/PTqI3iaRK9Y) | 在完成第 3 堂雲端服務課程後，運用 S3 與Amplify 服務進行網頁部署，過程中演示版本控制功能。 |
 
  助教簡報: [AWS IAM & S3](https://drive.google.com/file/d/1zTAF-32yebhsIAqjfyM30cjMKl9lvbf-/view)  
  課程錄影: [第五週課堂錄影 3/22](https://drive.google.com/drive/folders/1piSFgvRxU3414lnz42Fdb2LaKsxnUQQd)
