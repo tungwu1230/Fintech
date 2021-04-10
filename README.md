@@ -29,7 +29,10 @@
 
 | 截止日期 | 已完成 | 說明 |
 | --- | --- | --- |
-| 04/26 |  | 在完成第 4 堂雲端服務課程後，運用無伺服器框架串接 Telegram Chatbot，並且成功執行 DEMO文件，達到鸚鵡機器人的效果。 |  
+| 04/26 | [HW4](https://youtu.be/mZZclm2ibRs) | 在完成第 4 堂雲端服務課程後，運用無伺服器框架串接 Telegram Chatbot，並且成功執行 DEMO文件，達到鸚鵡機器人的效果。 |  
+
+ 助教簡報: [API Gateway and AWS Lambda](https://drive.google.com/file/d/1-AsnJmAldi_-gPnxdQcyBifScMmR_IBk/view)  
+ 課程錄影: [第六週課堂錄影 3/29](https://drive.google.com/drive/folders/1DilYy5s7VwQedzbzG-7fMtAd-PxLb3VE)
 
 ## 作業五: Create a Database using Amazon RDS or Amazon DynamoDB
 
