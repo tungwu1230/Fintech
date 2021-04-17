@@ -38,7 +38,10 @@
 
 | 截止日期 | 已完成 | 說明 |
 | --- | --- | --- |
-| 05/03 |  | 在完成第 5 堂雲端服務課程後，運用資料庫服務上傳給定的資料集，並且可透過界面進行 CRUD行為。 |
+| 05/03 |  | 在完成第 5 堂雲端服務課程後，運用資料庫服務上傳給定的資料集，並且可透過界面進行 CRUD行為。 |  
+
+助教簡報: [AWS RDS](https://drive.google.com/file/d/1-RPizv8fmWbJ5dP_zVY4JNuMLPS1ftLM/view) 內容有誤  
+課程錄影: [第八週課堂錄影 4/12](https://drive.google.com/drive/folders/10YFAY4QlK26LZ0Y6eftc004cRrKSu1B-)
 
 ## 作業六: Create a Docker Container or Build your own Project Services
 
