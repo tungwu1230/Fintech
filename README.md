@@ -38,7 +38,7 @@
 
 | 截止日期 | 已完成 | 說明 |
 | --- | --- | --- |
-| 05/03 |  | 在完成第 5 堂雲端服務課程後，運用資料庫服務上傳給定的資料集，並且可透過界面進行 CRUD行為。 |  
+| 05/03 | [HW5](https://youtu.be/oWCxVujlbnw) | 在完成第 5 堂雲端服務課程後，運用資料庫服務上傳給定的資料集，並且可透過界面進行 CRUD行為。 |  
 
 助教簡報: [AWS RDS](https://drive.google.com/file/d/1-RPizv8fmWbJ5dP_zVY4JNuMLPS1ftLM/view) 內容有誤  
 課程錄影: [第八週課堂錄影 4/12](https://drive.google.com/drive/folders/10YFAY4QlK26LZ0Y6eftc004cRrKSu1B-)
@@ -48,6 +48,8 @@
 | 截止日期 | 已完成 | 說明 |
 | --- | --- | --- |
 | 05/17 |  | 在完成第 6 堂雲端服務課程後，透過 Docker 建立Image，並執行該 Container，其內容可以是程序執行、各種伺服器服務等，並上傳至 Docker Hub。或您也可以選擇演示操作您的專案成品。 |  
+
+助教Notion: [Docker](https://www.notion.so/Docker-5cc2ffdbebd44dc1ab46ab1dfc31ebeb)
 
 內容來源: [moodle簡報](https://drive.google.com/file/d/1RCUnZUk5qfb_ukjVjv5ievIR-3ZHs6Do/view)
 
