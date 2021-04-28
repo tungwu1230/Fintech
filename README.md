@@ -60,7 +60,7 @@
 實作方向: 特徵分類、影像辨識、機器學習、模型回歸、保險業務流程優化  
 介紹影片: [https://reurl.cc/8y0Eag](https://reurl.cc/8y0Eag)  
 
-[2021產學合作題目介紹](https://docs.google.com/presentation/d/e/2PACX-1vTgVktGm1OwqWspx_PkFQlhR6oqPFXTV5oj0JYOdR-guBzKBEbyXLfKKXRenI2HkhT4iHwYGStgoAIA/pub?start=false&loop=false&delayms=3000&slide=id.gc356cb2501_0_242)
+[2021產學合作題目介紹](https://docs.google.com/presentation/d/e/2PACX-1vTgVktGm1OwqWspx_PkFQlhR6oqPFXTV5oj0JYOdR-guBzKBEbyXLfKKXRenI2HkhT4iHwYGStgoAIA/pub?start=false&loop=false&delayms=3000&slide=id.gc356cb2501_0_212)
 
 ### 三次正式進度追蹤提醒15%  
 1. 04/19 (檢討指標: 與業師及跨校同學建立好聯繫模式、並至少討論過三次以上，提出討論的溝通內容及專案管理狀態)
