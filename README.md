@@ -69,6 +69,7 @@
 ### 三次正式進度追蹤提醒15%  
 1. 04/19 (檢討指標: 與業師及跨校同學建立好聯繫模式、並至少討論過三次以上，提出討論的溝通內容及專案管理狀態)
 2. [05/10 (檢視指標：建立好基本分工流程，並提出最小可行性方案規劃)](https://drive.google.com/file/d/1XzqKzGEo_U_JUSaaSqrvIasP9E8a_c7W/view?usp=sharing) 
+    > [pdf版本](https://drive.google.com/file/d/1w04CpWV5OJAtlGZ7oi_R9J88dtR7CJnT/view?usp=sharing)  
     > [最小可行性方案](https://drive.google.com/file/d/1BngOz7286qWPs8as0Udx3x-n4WPMHVv6/view?usp=sharing) 
 3. 05/31 (檢視指標：確認好雲端服務相關工具與專案整合策略)
 
